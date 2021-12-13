@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fdb6b4083c50f442bd287bfe6642262, type: 3}
+  m_Name: MachineGun
+  m_EditorClassIdentifier: 
+  type: 1
+  rate: 0.1
+  maxAmmo: 50
+  damageValue: 3
+  defaultWeapon: 0
+  weaponIcon: {fileID: -644297780690176812, guid: 868b9b5f99c516e45ad369e9addc55b5,
+    type: 3}

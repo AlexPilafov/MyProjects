@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9f25d23-e0b2-40d5-b9ec-859ce2b8b54b": {
+      "ProjectGuid": "b9f25d23-e0b2-40d5-b9ec-859ce2b8b54b",
+      "DisplayName": "TextGame",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

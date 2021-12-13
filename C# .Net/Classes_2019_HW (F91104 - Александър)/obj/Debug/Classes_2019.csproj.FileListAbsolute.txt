@@ -1,0 +1,20 @@
+C:\Users\Maria\Source\Repos\Classes_2019\bin\Debug\Classes_2019.exe.config
+C:\Users\Maria\Source\Repos\Classes_2019\bin\Debug\Classes_2019.exe
+C:\Users\Maria\Source\Repos\Classes_2019\bin\Debug\Classes_2019.pdb
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.csprojAssemblyReference.cache
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.Form1.resources
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.Properties.Resources.resources
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.csproj.GenerateResource.cache
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.exe
+C:\Users\Maria\Source\Repos\Classes_2019\obj\Debug\Classes_2019.pdb
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\bin\Debug\Classes_2019.exe.config
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\bin\Debug\Classes_2019.exe
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\bin\Debug\Classes_2019.pdb
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.csprojAssemblyReference.cache
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.Form1.resources
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.Properties.Resources.resources
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.csproj.GenerateResource.cache
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.csproj.CoreCompileInputs.cache
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.exe
+E:\Lectures\2021\1 sem\C# & .Net\Classes_2019_Domashno\obj\Debug\Classes_2019.pdb

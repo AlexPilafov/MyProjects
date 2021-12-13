@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rot8 Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous" />
+</head>
+
+<body>
+    <!-- Navbar(Header) Section -->
+    <nav class="navbar">
+        <div class="navbar__container">
+            <a href="#home" id="navbar__logo">Rot8</a>
+            <div class="navbar__toggle" id="mobile-menu">
+                <span class="bar"></span> <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="navbar__menu">
+                <li class="navbar__item">
+                    <a href="#home" class="navbar__links" id="home-page">Home</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="#about" class="navbar__links" id="biography-page">Biography</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="#services" class="navbar__links" id="skills-page">Skills</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="#sign-up" class="navbar__links" id="tracks-page">Tracks</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="#contacts" class="navbar__links" id="contacts-page">Contacts</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero(Home) Section -->
+    <div class="hero" id="home">
+        <div class="hero__container">
+            <h1 class="hero__heading">Greetings! <br>My name is <br>Alexandar Pilafov <br></h1>
+            <p class="hero__description">and this is my website portfolio.</p>
+        </div>
+    </div>
+
+    <!-- About(Biography) Section -->
+    <div class="main" id="about">
+        <div class="main__container">
+            <div class="main__img--container">
+                <div class="main__img--card"><img src="src/img.png"></div>
+            </div>
+            <div class="main__content">
+                <h1>What do i do?</h1>
+                <h2>I'm an artist and a developer from Sofia, Bulgaria.</h2>
+                <p>I study Computer Science in New Bulgarian University.<br> I'm working as a freelacer by day and a DJ at night.</p>
+                <button class="main__btn"><a href="#contacts">Contact me</a></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Services(Skills) -->
+    <div class="services" id="services">
+        <h1>My Skills</h1>
+        <div class="services__wrapper">
+            <div class="services__card">
+                <h2>Development</h2>
+                <p>Game Development</p>
+                <p>Web Development</p>
+                <p>Software Engineering</p>
+                <p></p>
+                <div class="services__btn"><button>See more</button></div>
+            </div>
+            <div class="services__card">
+                <h2>2D & 3D Art</h2>
+                <p>Game assets</p>
+                <p>3D sketching</p>
+                <p>Posters and festival flyers</p>
+                <p></p>
+                <div class="services__btn"><button>See more</button></div>
+            </div>
+            <div class="services__card">
+                <h2>Music Production and Sound Design</h2>
+                <p>Mixing & mastering</p>
+                <p>Sound design for cinematic videos</p>
+                <p>Sound design for games</p>
+                <p></p>
+                <div class="services__btn"><button>See more</button></div>
+            </div>
+            <div class="services__card">
+                <h2>Producing and editing</h2>
+                <p>Image editing</p>
+                <p>Video editing</p>
+                <p>Translation and subtitles</p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div class="services__btn"><button>See more</button></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tracks Section -->
+    <div class="main" id="sign-up">
+        <div class="tracks__container">
+            <div class="main__content">
+                <h1>Check out!!</h1>
+                <h2>My new tracks on Soundcloud</h2>
+                <p>and follow for more tunes.</p>
+                <p><br><br><br></p>
+                <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1274006494&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+                <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rot8_techno" title="Rot8" target="_blank" style="color: #cccccc; text-decoration: none;">Rot8</a> · <a href="https://soundcloud.com/rot8_techno/sets/most-recent-tracks" title="Most Played Tracks" target="_blank"
+                        style="color: #cccccc; text-decoration: none;">Most Played Tracks</a></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Me -->
+    <div class="services" id="contacts">
+        <h1>Contacts</h1>
+        <div class="services__wrapper">
+            <div class="services__card">
+                <h2>Phone</h2>
+                <p>For buissness offers: <br> +359 888 111 222</p>
+                <p>For bookings: <br> +359 888 222 111</p>
+                <div class="services__btn"><button>Call</button></div>
+            </div>
+            <div class="services__card">
+                <h2>E-mail</h2>
+                <p>Personal: <br> alexpilafov@gmail.com</p>
+                <p>For bookings: <br> rot8.bookings@gmail.com</p>
+                <div class="services__btn"><button>Send e-mail</button></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Section -->
+    <div class="footer__container">
+        <div class="footer__links">
+            <div class="footer__link--wrapper">
+                <div class="footer__link--items">
+                    <h2>Links</h2>
+                    <a href="/">Contact</a> <a href="/">Support Artist</a>
+                </div>
+            </div>
+            <div class="footer__link--wrapper">
+                <div class="footer__link--items">
+                    <h2>Social Media</h2>
+                    <a href="/">Instagram</a> <a href="/">Facebook</a>
+                    <a href="/">Youtube</a>
+                    <a href="/">Linkedin</a>
+                </div>
+            </div>
+        </div>
+        <section class="social__media">
+            <div class="social__media--wrap">
+                <div class="footer__logo">
+                    <a href="/" id="footer__logo">Rot8</a>
+                </div>
+                <p class="website__rights"><br>© All rights reserved.</p>
+                <div class="social__icons">
+                    <a href="/" class="social__icon--link" target="_blank"><i class="fab fa-facebook"></i></a>
+                    <a href="/" class="social__icon--link"><i class="fab fa-instagram"></i></a>
+                    <a href="/" class="social__icon--link"><i class="fab fa-youtube"></i></a>
+                    <a href="/" class="social__icon--link"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

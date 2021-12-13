@@ -1,0 +1,3 @@
+Receipt 1
+[Goods{id=2, quantity=3, name='Pizza', price=12.0лв., total=36.0лв.}, Goods{id=3, quantity=2, name='IceCream', price=2.0лв., total=4.0лв.}, Goods{id=1, quantity=1, name='Sandwich', price=3.0лв., total=3.0лв.}]
+Total= 43.0лв.
